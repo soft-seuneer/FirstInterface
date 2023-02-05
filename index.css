@@ -1,0 +1,46 @@
+body {
+  background: #fd4351;
+  padding: 8rem;
+  margin: 0%;
+}
+.main {
+  display: flex;
+  position: absolute;
+  height: 40rem;
+  width: 60rem;
+  border-radius: 50%;
+}
+h2 {
+  padding-left: 4rem;
+}
+.left {
+  background-color: #fff;
+  color: black;
+  width: 40rem;
+  height: 30rem;
+}
+
+img {
+  width: 22rem;
+  height: 30rem;
+}
+
+.btn {
+  padding-left: 4rem;
+  margin-bottom: 2rem;
+}
+#button {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+#radio {
+  display: flex;
+}
+#menu {
+  width: 11rem;
+  margin-bottom: 2rem;
+}
+
+#gender {
+  display: flex;
+}
